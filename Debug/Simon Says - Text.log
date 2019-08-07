@@ -1,0 +1,5 @@
+﻿  Simon Says - Text.cpp
+C:\Users\Jan\Desktop\Projects\Programare\Visual Studio\Simon Says - Text\Simon Says - Text.cpp(110,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jan\Desktop\Projects\Programare\Visual Studio\Simon Says - Text\Simon Says - Text.cpp(127,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jan\Desktop\Projects\Programare\Visual Studio\Simon Says - Text\Simon Says - Text.cpp(157,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Simon Says - Text.vcxproj -> C:\Users\Jan\Desktop\Projects\Programare\Visual Studio\Simon Says - Text\Debug\Simon Says - Text.exe
